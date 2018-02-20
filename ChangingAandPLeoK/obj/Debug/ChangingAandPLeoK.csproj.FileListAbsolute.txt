@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 1 (Problem Solving)\ChangingAandPLeoK\ChangingAandPLeoK\bin\Debug\ChangingAandPLeoK.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 1 (Problem Solving)\ChangingAandPLeoK\ChangingAandPLeoK\bin\Debug\ChangingAandPLeoK.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 1 (Problem Solving)\ChangingAandPLeoK\ChangingAandPLeoK\bin\Debug\ChangingAandPLeoK.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 1 (Problem Solving)\ChangingAandPLeoK\ChangingAandPLeoK\obj\Debug\ChangingAandPLeoK.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 1 (Problem Solving)\ChangingAandPLeoK\ChangingAandPLeoK\obj\Debug\ChangingAandPLeoK.ChangingAandPLeoKForm.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 1 (Problem Solving)\ChangingAandPLeoK\ChangingAandPLeoK\obj\Debug\ChangingAandPLeoK.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 1 (Problem Solving)\ChangingAandPLeoK\ChangingAandPLeoK\obj\Debug\ChangingAandPLeoK.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 1 (Problem Solving)\ChangingAandPLeoK\ChangingAandPLeoK\obj\Debug\ChangingAandPLeoK.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 1 (Problem Solving)\ChangingAandPLeoK\ChangingAandPLeoK\obj\Debug\ChangingAandPLeoK.pdb
